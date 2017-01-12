@@ -1,4 +1,4 @@
-## Django Development With Docker Compose and Machine
+## Django Development With Docker Compose
 
 Edit .env
 ```
